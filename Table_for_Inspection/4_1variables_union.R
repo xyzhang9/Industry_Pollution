@@ -4,8 +4,8 @@ library(dplyr)
 options(scipen = 999)
 
 # 指定 CSV 文件路径的文件夹
-input_folder_path <- "D:/照片材料/文件/应聘科研助理_炊晨阳_武汉大学_18028377912/环境/数据/"
-output_folder_path <- "D:/照片材料/文件/应聘科研助理_炊晨阳_武汉大学_18028377912/环境/数据/计算4/"
+input_folder_path <- ""
+output_folder_path <- ""
 
 excel_file <- paste0(input_folder_path, "指标说明.xlsx")
 
