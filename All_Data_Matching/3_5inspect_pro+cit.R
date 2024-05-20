@@ -10,9 +10,9 @@ options(scipen = 999)
 
 
 # 设置文件夹路径和文件名
-input_folder_1 <- "D:/照片材料/文件/应聘科研助理_炊晨阳_武汉大学_18028377912/环境/数据/计算3/地址/address_annual/"
-input_folder_2 <- "D:/照片材料/文件/应聘科研助理_炊晨阳_武汉大学_18028377912/环境/数据/"
-output_folder <- "D:/照片材料/文件/应聘科研助理_炊晨阳_武汉大学_18028377912/环境/数据/计算3/地址/all_pro+cit/"
+input_folder_1 <- ""
+input_folder_2 <- ""
+output_folder <- ""
 
 excel_file <- paste0(input_folder_2, "指标说明.xlsx")
 output_text_file1 <- paste0(output_folder, "output_info_sdxm.txt")
